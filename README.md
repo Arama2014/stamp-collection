@@ -1,6 +1,6 @@
 Simon's Stamp Collection App
 ---
 
-# About
+# About Arama
 
 Stuff about Stamps here....
